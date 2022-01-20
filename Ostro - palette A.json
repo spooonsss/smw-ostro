@@ -71,6 +71,31 @@
           "X offset": 0,
           "Y offset": 16,
           "map16 tile": 412
+        },
+        {
+          "X offset": 0,
+          "Y offset": 0,
+          "map16 tile": 44
+        }
+      ],
+      "X": 0,
+      "Y": 0,
+      "DisplayText": "",
+      "UseText": false
+    },
+    {
+      "Description": "Ostro - driverless",
+      "ExtraBit": true,
+      "Tiles": [
+        {
+          "X offset": 0,
+          "Y offset": 0,
+          "map16 tile": 396
+        },
+        {
+          "X offset": 0,
+          "Y offset": 16,
+          "map16 tile": 412
         }
       ],
       "X": 0,
